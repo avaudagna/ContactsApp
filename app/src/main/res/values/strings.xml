@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="title">Contacts</string>
+    <string name="details">Details View</string>
+    <string name="profile_desc">Profile default image.</string>
+    <string name="title_activity_detalles">DetallesActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
